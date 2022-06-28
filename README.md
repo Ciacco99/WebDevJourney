@@ -72,7 +72,20 @@ During these two months I have other tasks and projects to do so I suppose it wi
 5.5h/day (4h webdev + 1.5h other coding) for 40 days or 4.5h/day for 50 days.
 
 I don't know if I will update this *README* often or for simplicity I will just privately keep track of my progress.
-Afterall this is for my personal 
+
+
+## WorkLog
+
+|     Log       | Topic    |  Net Hours |           Notes          |
+| --------------| -------- | -----------| ------------------------ |
+| 28/06/22      |    Setup |      5h   |     git, atom, resources, *README*          |
+| 28/06/22      |     HTML |      2h40' |     followed video HTML            |
+|          |       |            |      |
+|          |       |            |      |
+|          |       |            |      |
+|          |       |            |      |
+
+
 ## Authors
 
 - [@jacopoferro](https://www.github.com/Ciacco99)
