@@ -48,7 +48,7 @@ JS: 4.5h
 JS Projects: 15h
 React: 20h
 
-Specialization: 
+Specialization:
 Course 1: 30h
 Course 2: 30h
 Course 3: 45h
