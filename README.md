@@ -1,7 +1,7 @@
 
 # WebDevJourney
 
-28/06/22 - Jacopo Ferro
+## Jacopo Ferro - 28/06/22
 
 Web Development learning journey for the next weeks.
 
