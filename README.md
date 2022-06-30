@@ -102,7 +102,7 @@ Just Kidding here's a tentative table I will update with various logs:
 | 29/06/22 | CSS   | 2h        | video CSS, then interactive version |
 | 29/06/22 | Other | 1h        | articles and peak at new resources  |
 | 30/06/22 | Other | 1h30'     |                                     |
-| 30/06/22 |       |           |                                     |
+| 30/06/22 |   CSS  |    2h30' |      CSS basics and Grid                        |
 |          |       |           |                                     |
 |          |       |           |                                     |
 |          |       |           |                                     |
