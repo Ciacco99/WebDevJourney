@@ -1,0 +1,82 @@
+
+  #box-container {
+    background: gray;
+    display: flex;
+    height: 300px;
+    flex-wrap: wrap;
+  }
+  #box-1 {
+    background-color: dodgerblue;
+    width: 25%;
+    height: 50%;
+    flex-shrink: 2;
+  }
+
+  #box-2 {
+    background-color: orangered;
+    width: 25%;
+    height: 50%;
+    flex-shrink: 1;
+  }
+  #box-3 {
+    background-color: violet;
+    width: 25%;
+    height: 50%;
+    flex-shrink: 3;
+  }
+  #box-4 {
+    background-color: yellow;
+    width: 25%;
+    height: 50%;
+    flex-shrink: 2;
+  }
+  #box-5 {
+    background-color: green;
+    width: 25%;
+    height: 50%;
+    flex-shrink: 1;
+  }
+  #box-6 {
+    background-color: black;
+    width: 25%;
+    height: 50%;
+    flex-shrink: 1;
+  }
+
+  #box-container2 {
+    background: gray;
+    display: flex;
+    height: 300px;
+    flex-wrap: wrap;
+  }
+  #box-7 {
+    background-color: dodgerblue;
+    width: 25%;
+    height: 50%;
+  }
+
+  #box-8 {
+    background-color: orangered;
+    width: 25%;
+    height: 50%;
+  }
+  #box-9 {
+    background-color: violet;
+    width: 25%;
+    height: 50%;
+  }
+  #box-10 {
+    background-color: yellow;
+    width: 25%;
+    height: 50%;
+  }
+  #box-11 {
+    background-color: green;
+    width: 25%;
+    height: 50%;
+  }
+  #box-12 {
+    background-color: black;
+    width: 25%;
+    height: 50%;
+  }

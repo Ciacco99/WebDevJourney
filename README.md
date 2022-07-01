@@ -46,7 +46,7 @@ along the way. Eventually introducing Back-End and frameworks that are actually 
  - [Server-side Development with NodeJS, Express and MongoDB (48h course)](https://www.coursera.org/learn/server-side-nodejs?specialization=full-stack-react#syllabus)
 
  - #### Added Later:
- - []()
+ - [Back-End Overview](https://www.youtube.com/watch?v=XBu54nfzxAQ&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX&index=6)
 
  ---
 
@@ -95,18 +95,17 @@ Just Kidding here's a tentative table I will update with various logs:
 
 ## WorkLog
 
-| Log      | Topic | Net Hours | Notes                               |
-|----------|-------|-----------|-------------------------------------|
-| 28/06/22 | Setup | 5h        | git, atom, resources, *README*      |
-| 28/06/22 | HTML  | 2h40'     | followed video HTML                 |
-| 29/06/22 | CSS   | 2h        | video CSS, then interactive version |
-| 29/06/22 | Other | 1h        | articles and peak at new resources  |
-| 30/06/22 | Other | 1h30'     |                                     |
-| 30/06/22 |   CSS  |    2h30' |      CSS basics and Grid                        |
-|          |       |           |                                     |
-|          |       |           |                                     |
-|          |       |           |                                     |
-
+| Log      | Topic       | Net Hours     | Notes                                             |
+|----------|-------------|---------------|---------------------------------------------------|
+| 28/06/22 | Setup       | 5h            | git, atom, resources, *README*                    |
+| 28/06/22 | HTML        | 2h40'         | followed video HTML                               |
+| 29/06/22 | CSS         | 2h            | video CSS, then interactive version               |
+| 29/06/22 | Other       | 1h            | articles and peak at new resources                |
+| 30/06/22 | Other       | 1h30'         |                                                   |
+| 30/06/22 | CSS         | 2h30'         | CSS basics and Grid                               |
+| 01/07/22 | CSS & Other | 1h15' + 1h15' | CSS flexbox & considering Vue.js instead of React |
+|          |             |               |                                                   |
+|          |             |               |                                                   |
 
 *Other* refers to exploration regarding curriculum, further articles, project ideas and in general lateral activities and learning that are parallel to the main focus but would be harder to keep track precisely.  
 Examples: learning markdown and environment to build it for the *README*, reading articles about tech stacks, discovering new resources.
