@@ -10,6 +10,8 @@ Web Development learning journey for the next weeks.
 ### Starting point
 Extremely basic concepts of HTML, CSS, JS with no frameworks nor project experience.
 
+I do have general CS background and know how to code in other languages, so I hope to pick up quickly on basic syntax of the new material.
+
 ### Goals
 Learn basics and more advance concepts of web application development.
 
@@ -20,7 +22,7 @@ Build an application for personal fun and learning.
 ---
 
 ### Tentative Curriculum
-This is my broad idea of what I think is a progressive curriculum for what i want to learn. It might change because as of now I don't have a good idea of what exactly is even required.
+This is my broad idea of what I think is a progressive curriculum for what I want to learn. It might change because as of now I don't have a good idea of what exactly is even required.
 - HTML
 - CSS
 - JavaScript
@@ -34,19 +36,32 @@ along the way. Eventually introducing Back-End and frameworks that are actually 
 
 
 ## Resources
+Main resources I plan on using and other resources I stumbled upon while following the curriculum.
+I will add links in the second category as I study.
 
+#### Main structured Resources:
  - #### [Coursera HTML, CSS, JS (40h course) ](https://www.coursera.org/learn/html-css-javascript-for-web-developers#syllabus)
  - #### [Youtube Playlist WebDev:](https://www.youtube.com/playlist?list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
- -  [HTML (2h)](https://www.youtube.com/watch?v=pQN-pnXPaVg&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX) - [CSS (1.5h)](https://www.youtube.com/watch?v=ieTHC78giGQ&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)  - [JS (3.5h)](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
- -  [JS Projects Examples (8.5h)]( https://www.youtube.com/watch?v=3PHXvlpOkf4&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
- -  [React (12h)](https://www.youtube.com/watch?v=bMknfKXIFA8&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX) - [React Interactive Version](https://scrimba.com/learn/learnreact)
- - #### [Full-Stack Web Development with react Specialization:](https://www.coursera.org/specializations/full-stack-react#courses)
- - [Front-End Web UI frameworks and Tools: Bootstrap 4 (31h course)](https://www.coursera.org/learn/bootstrap-4?specialization=full-stack-react#syllabus)
- - [Front-End Web Development with React (36h course)](https://www.coursera.org/learn/front-end-react?specialization=full-stack-react#syllabus)
- - [Server-side Development with NodeJS, Express and MongoDB (48h course)](https://www.coursera.org/learn/server-side-nodejs?specialization=full-stack-react#syllabus)
+ -- [HTML (2h)](https://www.youtube.com/watch?v=pQN-pnXPaVg&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX) - [CSS (1.5h)](https://www.youtube.com/watch?v=ieTHC78giGQ&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)  - [JS (3.5h)](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
+ --  [JS Projects Examples (8.5h)]( https://www.youtube.com/watch?v=3PHXvlpOkf4&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
+ --  [React (12h)](https://www.youtube.com/watch?v=bMknfKXIFA8&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX) - [React Interactive Version](https://scrimba.com/learn/learnreact)
+ - #### [Full-Stack Web Development with React Specialization:](https://www.coursera.org/specializations/full-stack-react#courses)
+ -- [Front-End Web UI frameworks and Tools: Bootstrap 4 (31h course)](https://www.coursera.org/learn/bootstrap-4?specialization=full-stack-react#syllabus)
+ -- [Front-End Web Development with React (36h course)](https://www.coursera.org/learn/front-end-react?specialization=full-stack-react#syllabus)
+ -- [Server-side Development with NodeJS, Express and MongoDB (48h course)](https://www.coursera.org/learn/server-side-nodejs?specialization=full-stack-react#syllabus)
 
- - #### Added Later:
- - [Back-End Overview](https://www.youtube.com/watch?v=XBu54nfzxAQ&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX&index=6)
+#### Extra noteworthy resources I discovered later:
+ - [Cool Back-End Overview Youtube video](https://www.youtube.com/watch?v=XBu54nfzxAQ&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
+ - [Higher Order Functions article](https://www.freecodecamp.org/news/higher-order-functions-in-javascript-examples/)
+ - [JSDoc to document JavaScript programs](https://jsdoc.app) found trough [this article](https://gomakethings.com/whats-the-best-way-to-document-javascript/)
+ - [Import-Export Article (I got errors when texting offline)](https://javascript.info/import-export)
+
+Note: I don't want to clutter the resources section so I won't add every resource that is directly connected to the main ones (interactive versions of the youtube courses for example).
+
+I will only add extra ones that I find a bit more "distant", as side-quests or info, and that I discovered while actually following the curriculum. These might end up taking the form of the topic 'Other' in the WorkLog section at the end.
+
+Some of these things ended up becoming somewhat 'unproductive' rabbit-holes, I will try to select just a few.
+
 
  ---
 
@@ -104,11 +119,18 @@ Just Kidding here's a tentative table I will update with various logs:
 | 30/06/22 | Other       | 1h30'         |                                                   |
 | 30/06/22 | CSS         | 2h30'         | CSS basics and Grid                               |
 | 01/07/22 | CSS & Other | 1h15' + 1h15' | CSS flexbox & considering Vue.js instead of React |
+| 01/07/22 | JS          | 1h            | Setup Atom and start course                       |
+| 03/07/22 | JS          | 7h            | JS course, HOF, JSDoc                             |
 |          |             |               |                                                   |
 |          |             |               |                                                   |
 
+
+
 *Other* refers to exploration regarding curriculum, further articles, project ideas and in general lateral activities and learning that are parallel to the main focus but would be harder to keep track precisely.  
 Examples: learning markdown and environment to build it for the *README*, reading articles about tech stacks, discovering new resources.
+
+
+
 
 ---
 
