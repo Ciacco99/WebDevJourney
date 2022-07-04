@@ -42,13 +42,13 @@ I will add links in the second category as I study.
 #### Main structured Resources:
  - #### [Coursera HTML, CSS, JS (40h course) ](https://www.coursera.org/learn/html-css-javascript-for-web-developers#syllabus)
  - #### [Youtube Playlist WebDev:](https://www.youtube.com/playlist?list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
- -- [HTML (2h)](https://www.youtube.com/watch?v=pQN-pnXPaVg&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX) - [CSS (1.5h)](https://www.youtube.com/watch?v=ieTHC78giGQ&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)  - [JS (3.5h)](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
- --  [JS Projects Examples (8.5h)]( https://www.youtube.com/watch?v=3PHXvlpOkf4&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
- --  [React (12h)](https://www.youtube.com/watch?v=bMknfKXIFA8&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX) - [React Interactive Version](https://scrimba.com/learn/learnreact)
+ - - [HTML (2h)](https://www.youtube.com/watch?v=pQN-pnXPaVg&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX) - [CSS (1.5h)](https://www.youtube.com/watch?v=ieTHC78giGQ&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)  - [JS (3.5h)](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
+ - -  [JS Projects Examples (8.5h)]( https://www.youtube.com/watch?v=3PHXvlpOkf4&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
+ - -  [React (12h)](https://www.youtube.com/watch?v=bMknfKXIFA8&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX) - [React Interactive Version](https://scrimba.com/learn/learnreact)
  - #### [Full-Stack Web Development with React Specialization:](https://www.coursera.org/specializations/full-stack-react#courses)
- -- [Front-End Web UI frameworks and Tools: Bootstrap 4 (31h course)](https://www.coursera.org/learn/bootstrap-4?specialization=full-stack-react#syllabus)
- -- [Front-End Web Development with React (36h course)](https://www.coursera.org/learn/front-end-react?specialization=full-stack-react#syllabus)
- -- [Server-side Development with NodeJS, Express and MongoDB (48h course)](https://www.coursera.org/learn/server-side-nodejs?specialization=full-stack-react#syllabus)
+ - - [Front-End Web UI frameworks and Tools: Bootstrap 4 (31h course)](https://www.coursera.org/learn/bootstrap-4?specialization=full-stack-react#syllabus)
+ - - [Front-End Web Development with React (36h course)](https://www.coursera.org/learn/front-end-react?specialization=full-stack-react#syllabus)
+ - - [Server-side Development with NodeJS, Express and MongoDB (48h course)](https://www.coursera.org/learn/server-side-nodejs?specialization=full-stack-react#syllabus)
 
 #### Extra noteworthy resources I discovered later:
  - [Cool Back-End Overview Youtube video](https://www.youtube.com/watch?v=XBu54nfzxAQ&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)

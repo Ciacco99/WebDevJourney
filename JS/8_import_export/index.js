@@ -14,3 +14,9 @@ console.log(cap);
 
 // The gist is to be able to export portions then use them importing them
 // so we can reuse code and have a neat structure...
+//
+// use import *  as objName to import everything frmo a file an create an object
+// with it
+//
+// export default -> fallback export
+// import a default export:
