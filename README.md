@@ -51,16 +51,41 @@ I will add links in the second category as I study.
  - - [Server-side Development with NodeJS, Express and MongoDB (48h course)](https://www.coursera.org/learn/server-side-nodejs?specialization=full-stack-react#syllabus)
 
 #### Extra noteworthy resources I discovered later:
- - [Cool Back-End Overview Youtube video](https://www.youtube.com/watch?v=XBu54nfzxAQ&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
- - [Higher Order Functions article](https://www.freecodecamp.org/news/higher-order-functions-in-javascript-examples/)
- - [JSDoc to document JavaScript programs](https://jsdoc.app) found trough [this article](https://gomakethings.com/whats-the-best-way-to-document-javascript/)
- - [Import-Export Article (I got errors when texting offline)](https://javascript.info/import-export)
+- ##### Curriculum Related:
+ - - [Higher Order Functions article](https://www.freecodecamp.org/news/higher-order-functions-in-javascript-examples/)
+ - - [JSDoc to document JavaScript programs](https://jsdoc.app) found trough [this article](https://gomakethings.com/whats-the-best-way-to-document-javascript/)
+ -  - [Import-Export Article (I got errors when texting offline)](https://javascript.info/import-export)
+ -  - [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) - [DOM docs](https://dom.spec.whatwg.org) - [HTML DOM API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API) - [Examples](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
+ - - [Script/Interpreted vs Compiled languages](https://www.softwaretestinghelp.com/scripting-vs-programming/) - [python example](https://towardsdatascience.com/how-does-python-work-6f21fd197888)
+ - - [Fast React course (1h10')](https://www.youtube.com/watch?app=desktop&v=b9eMGE7QtTk)
+
+- ##### Big Picture:
+ - - [Cool Back-End Overview Youtube video](https://www.youtube.com/watch?v=XBu54nfzxAQ&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
+ - - [Cool Full Stack WebDev Roadmap Video](https://www.youtube.com/watch?v=xORdz1Hi9Gc)
+ - - [Why React?](https://www.simform.com/blog/why-use-react/)
+ - - [Website builders: WordPress, Wix](https://www.tooltester.com/en/blog/wix-vs-wordpress/) - [WordPress .com vs .org](https://www.tooltester.com/en/blog/wordpress-com-vs-wordpress-org/)
+ - - Web Scraping/Interactions: [Axiom vs Fetch](https://www.geeksforgeeks.org/difference-between-fetch-and-axios-js-for-making-http-requests/) - [What is Puppeteer](https://www.educative.io/answers/what-is-puppeteer)
+
+- ##### Cool examples:
+ -  - [Tania Rascia cool personal site with tutorials and articles](https://www.taniarascia.com)
+
+- ##### Frameworks pins & docs, official references:
+ - - [React Official Site, has nice tutorials](https://reactjs.org)
+ - - [Codepen Online social coding environment](https://codepen.io)
+ - - [Styled Components](https://styled-components.com)
+ - - [Typescript](https://www.typescriptlang.org)
+ - - [Rive for animation](https://rive.app)
+ - - [Gatsby framework](https://www.gatsbyjs.com) - [Gatsby advanced starter](https://github.com/vagr9k/gatsby-advanced-starter/)
+ - - [Netflify to build and deploy](https://www.netlify.com)
+ - - [Contentful for content management](https://www.contentful.com)
+ - - [Figma for design](https://www.figma.com)
+ - - Web interactions (scraping and more): [Axios as better Fetch](https://axios-http.com) - [Cheerio for parsing HTML on server with Node.js](https://cheerio.js.org) - [Puppeteer as cheerio on steroids, simulates browser](https://github.com/puppeteer/puppeteer)
 
 Note: I don't want to clutter the resources section so I won't add every resource that is directly connected to the main ones (interactive versions of the youtube courses for example).
 
-I will only add extra ones that I find a bit more "distant", as side-quests or info, and that I discovered while actually following the curriculum. These might end up taking the form of the topic 'Other' in the WorkLog section at the end.
+Consuming these extra resources might shows up as 'Other' in the WorkLog
 
-Some of these things ended up becoming somewhat 'unproductive' rabbit-holes, I will try to select just a few.
+Some of these things ended up becoming somewhat 'unproductive' rabbit-holes, I will try to select just a few and strike a balance between pinning for reference in the future and adding only the useful things that add side info while doing the curriculum.
 
 
  ---
@@ -110,24 +135,27 @@ Just Kidding here's a tentative table I will update with various logs:
 
 ## WorkLog
 
-| Log      | Topic       | Net Hours     | Notes                                             |
-|----------|-------------|---------------|---------------------------------------------------|
-| 28/06/22 | Setup       | 5h            | git, atom, resources, *README*                    |
-| 28/06/22 | HTML        | 2h40'         | followed video HTML                               |
-| 29/06/22 | CSS         | 2h            | video CSS, then interactive version               |
-| 29/06/22 | Other       | 1h            | articles and peak at new resources                |
-| 30/06/22 | Other       | 1h30'         |                                                   |
-| 30/06/22 | CSS         | 2h30'         | CSS basics and Grid                               |
-| 01/07/22 | CSS & Other | 1h15' + 1h15' | CSS flexbox & considering Vue.js instead of React |
-| 01/07/22 | JS          | 1h            | Setup Atom and start course                       |
-| 03/07/22 | JS          | 7h            | JS course, HOF, JSDoc                             |
-|          |             |               |                                                   |
-|          |             |               |                                                   |
-
-
+| Log      | Topic        | Net Hours     | Notes                                                     |
+|----------|--------------|---------------|-----------------------------------------------------------|
+| 28/06/22 | Setup        | 5h            | git, atom, resources, *README*                            |
+| 28/06/22 | HTML         | 2h40'         | followed video HTML                                       |
+| 29/06/22 | CSS          | 2h            | video CSS, then interactive version                       |
+| 29/06/22 | Other        | 1h            | articles and peak at new resources                        |
+| 30/06/22 | Other        | 1h30'         |                                                           |
+| 30/06/22 | CSS          | 2h30'         | CSS basics and Grid                                       |
+| 01/07/22 | CSS & Other  | 1h15' + 1h15' | CSS flexbox & considering Vue.js instead of React         |
+| 01/07/22 | JS           | 1h            | Setup Atom and start course                               |
+| 03/07/22 | JS           | 7h            | JS course, HOF, JSDoc                                     |
+| 04/07/22 | JS Projects  | 1h40'         | Vanilla JS Color Flipper, Counter                         |
+| 04/07/22 | Other        | 2h30'         | Site builders, DOM, React & other resources               |
+| 04/07/22 | React        | 1h50'         | Cut time on Vanilla HTML/CSS/JS projects, dive into React |
+| 05/07/22 | React, Other | 3h30'         | Discovered and added a bunch of side resources            |
+| 06/07/22 | Other        | 1h            | Cleaned Resources                                         |
+| 06/07/22 |              |               |                                                           |
+|   |   |   |   |
 
 *Other* refers to exploration regarding curriculum, further articles, project ideas and in general lateral activities and learning that are parallel to the main focus but would be harder to keep track precisely.  
-Examples: learning markdown and environment to build it for the *README*, reading articles about tech stacks, discovering new resources.
+Examples: markdown and environment for the *README*, articles about tech stacks, docs of Frameworks/libraries and more.
 
 
 
