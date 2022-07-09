@@ -1,0 +1,76 @@
+/* App */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Navbar */
+nav {
+  display: flex;
+  align-items: center;
+  height: 91px;
+  left: 0px;
+  top: 0px;
+  padding: 30px 25px;
+  background-color: #21222A;
+
+}
+
+.nav-course {
+  margin: 0;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: right;
+
+  color: #DEEBF8;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nav-facts {
+  margin: 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  letter-spacing: -0.05em;
+
+  margin-right: auto;
+
+  color: #61DAFB;
+}
+
+.nav-logo {
+  margin-right: 7px;
+}
+
+
+
+/* Main */
+.Main {
+
+  position: relative;
+  top: 0px;
+  left: 0px;
+  background-color: #282D35;
+}
+
+.main-title {
+  margin: 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 39px;
+  line-height: 47px;
+  letter-spacing: -0.05em;
+
+  color: #FFFFFF;
+}
+
+.main-list {
+  /*background-color: #61DAFB;*/
+}

@@ -58,6 +58,7 @@ I will add links in the second category as I study.
  -  - [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) - [DOM docs](https://dom.spec.whatwg.org) - [HTML DOM API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API) - [Examples](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
  - - [Script/Interpreted vs Compiled languages](https://www.softwaretestinghelp.com/scripting-vs-programming/) - [python example](https://towardsdatascience.com/how-does-python-work-6f21fd197888)
  - - [Fast React course (1h10')](https://www.youtube.com/watch?app=desktop&v=b9eMGE7QtTk)
+ - - [Starting a Node Server, (http-server for static is simplest)](https://stackabuse.com/how-to-start-a-node-server-examples-with-the-most-popular-frameworks/)
 
 - ##### Big Picture:
  - - [Cool Back-End Overview Youtube video](https://www.youtube.com/watch?v=XBu54nfzxAQ&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
@@ -80,6 +81,8 @@ I will add links in the second category as I study.
  - - [Contentful for content management](https://www.contentful.com)
  - - [Figma for design](https://www.figma.com)
  - - Web interactions (scraping and more): [Axios as better Fetch](https://axios-http.com) - [Cheerio for parsing HTML on server with Node.js](https://cheerio.js.org) - [Puppeteer as cheerio on steroids, simulates browser](https://github.com/puppeteer/puppeteer)
+ - - [Babel for language definition (highlighting JSX)](https://babeljs.io/docs/en/editors)
+ - - [http-server](https://www.npmjs.com/package/http-server)
 
 Note: I don't want to clutter the resources section so I won't add every resource that is directly connected to the main ones (interactive versions of the youtube courses for example).
 
@@ -151,8 +154,10 @@ Just Kidding here's a tentative table I will update with various logs:
 | 04/07/22 | React        | 1h50'         | Cut time on Vanilla HTML/CSS/JS projects, dive into React |
 | 05/07/22 | React, Other | 3h30'         | Discovered and added a bunch of side resources            |
 | 06/07/22 | Other        | 1h            | Cleaned Resources                                         |
-| 06/07/22 |              |               |                                                           |
-|   |   |   |   |
+| 06/07/22 | React        | 2h'30         | Still absorbing basic resources and Setup react           |
+| 08/07/22 | React        | 1h            | More setup and course                                     |
+| 09/07/22 | React        | 5h            | Course + Trying to solve problems with import/export!     |
+| 09/07/22 | React        | 1h            | stick with create-react-app                               |
 
 *Other* refers to exploration regarding curriculum, further articles, project ideas and in general lateral activities and learning that are parallel to the main focus but would be harder to keep track precisely.  
 Examples: markdown and environment for the *README*, articles about tech stacks, docs of Frameworks/libraries and more.
