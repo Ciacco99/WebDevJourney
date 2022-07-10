@@ -58,7 +58,8 @@ I will add links in the second category as I study.
  -  - [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) - [DOM docs](https://dom.spec.whatwg.org) - [HTML DOM API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API) - [Examples](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
  - - [Script/Interpreted vs Compiled languages](https://www.softwaretestinghelp.com/scripting-vs-programming/) - [python example](https://towardsdatascience.com/how-does-python-work-6f21fd197888)
  - - [Fast React course (1h10')](https://www.youtube.com/watch?app=desktop&v=b9eMGE7QtTk)
- - - [Starting a Node Server, (http-server for static is simplest)](https://stackabuse.com/how-to-start-a-node-server-examples-with-the-most-popular-frameworks/)
+ - - [Starting a Node Server, (http-server for static is simplest, but had problems with it as it caches too long)](https://stackabuse.com/how-to-start-a-node-server-examples-with-the-most-popular-frameworks/)
+ -  - [CSS best practices (good revision too)](https://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741)
 
 - ##### Big Picture:
  - - [Cool Back-End Overview Youtube video](https://www.youtube.com/watch?v=XBu54nfzxAQ&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
@@ -68,7 +69,7 @@ I will add links in the second category as I study.
  - - Web Scraping/Interactions: [Axiom vs Fetch](https://www.geeksforgeeks.org/difference-between-fetch-and-axios-js-for-making-http-requests/) - [What is Puppeteer](https://www.educative.io/answers/what-is-puppeteer)
 
 - ##### Cool examples:
- -  - [Tania Rascia cool personal site with tutorials and articles](https://www.taniarascia.com)
+ - - [Tania Rascia cool personal site with tutorials and articles](https://www.taniarascia.com)
 
 - ##### Frameworks pins & docs, official references:
  - - [React Official Site, has nice tutorials](https://reactjs.org)
@@ -82,7 +83,9 @@ I will add links in the second category as I study.
  - - [Figma for design](https://www.figma.com)
  - - Web interactions (scraping and more): [Axios as better Fetch](https://axios-http.com) - [Cheerio for parsing HTML on server with Node.js](https://cheerio.js.org) - [Puppeteer as cheerio on steroids, simulates browser](https://github.com/puppeteer/puppeteer)
  - - [Babel for language definition (highlighting JSX)](https://babeljs.io/docs/en/editors)
- - - [http-server](https://www.npmjs.com/package/http-server)
+ - - [http-server](https://www.npmjs.com/package/http-server) - [Live Server](https://www.npmjs.com/package/live-server)
+ - - [Create-React-App docs](https://create-react-app.dev/docs/getting-started)
+ - - Useful CSS base files:[Reset css](https://meyerweb.com/eric/tools/css/reset/index.html) - [Normalize CSS](https://nicolasgallagher.com/about-normalize-css/) - [Primitive CSS](https://taniarascia.github.io/primitive/css/main.css)
 
 Note: I don't want to clutter the resources section so I won't add every resource that is directly connected to the main ones (interactive versions of the youtube courses for example).
 

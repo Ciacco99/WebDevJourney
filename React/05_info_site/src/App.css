@@ -6,6 +6,8 @@
 body {
   margin: 0;
   font-family: 'Inter', sans-serif;
+  height: 100vh;
+  background-color: #282D35;
 }
 
 /* Navbar */
@@ -15,7 +17,7 @@ nav {
   height: 91px;
   left: 0px;
   top: 0px;
-  padding: 30px 25px;
+  padding: 31px 26px;
   background-color: #21222A;
 
 }
@@ -46,6 +48,7 @@ nav {
 }
 
 .nav-logo {
+  height: 30px;
   margin-right: 7px;
 }
 
@@ -53,11 +56,12 @@ nav {
 
 /* Main */
 .Main {
-
-  position: relative;
-  top: 0px;
-  left: 0px;
   background-color: #282D35;
+  padding: 57px 27px;
+  color: white;
+  background-image: url(./images/reactjs-icon_large.png);
+  background-repeat: no-repeat;
+  background-position: right 75%;
 }
 
 .main-title {
@@ -67,10 +71,22 @@ nav {
   font-size: 39px;
   line-height: 47px;
   letter-spacing: -0.05em;
-
   color: #FFFFFF;
+  max-width: 400px;
 }
 
 .main-list {
+  margin-top: 46px;
+  max-width: 400px;
   /*background-color: #61DAFB;*/
+}
+
+.main-list-item {
+  line-height: 19px;
+  padding: 10px 13px;
+}
+
+.main-list-item::marker {
+  font-size: 1.4rem;
+  color: #61DAFB;
 }
