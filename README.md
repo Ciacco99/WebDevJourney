@@ -67,6 +67,7 @@ I will add links in the second category as I study.
  - - [Why React?](https://www.simform.com/blog/why-use-react/)
  - - [Website builders: WordPress, Wix](https://www.tooltester.com/en/blog/wix-vs-wordpress/) - [WordPress .com vs .org](https://www.tooltester.com/en/blog/wordpress-com-vs-wordpress-org/)
  - - Web Scraping/Interactions: [Axiom vs Fetch](https://www.geeksforgeeks.org/difference-between-fetch-and-axios-js-for-making-http-requests/) - [What is Puppeteer](https://www.educative.io/answers/what-is-puppeteer)
+ - - [RSS feeds](https://zapier.com/blog/how-to-use-rss-feeds/) - [Feedly (uses RSS feeds)](https://feedly.com)
 
 - ##### Cool examples:
  - - [Tania Rascia cool personal site with tutorials and articles](https://www.taniarascia.com)
@@ -161,6 +162,7 @@ Just Kidding here's a tentative table I will update with various logs:
 | 08/07/22 | React        | 1h            | More setup and course                                     |
 | 09/07/22 | React        | 5h            | Course + Trying to solve problems with import/export!     |
 | 09/07/22 | React        | 1h            | stick with create-react-app                               |
+| 10/07/22 | CSS, React   | 4h15'         | React Info_Site, Figma, CSS practice                      |
 
 *Other* refers to exploration regarding curriculum, further articles, project ideas and in general lateral activities and learning that are parallel to the main focus but would be harder to keep track precisely.  
 Examples: markdown and environment for the *README*, articles about tech stacks, docs of Frameworks/libraries and more.
