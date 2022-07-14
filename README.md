@@ -7,10 +7,29 @@ Web Development learning journey for the next weeks.
 
 ---
 
+- [WebDevJourney](#webdevjourney)
+  - [Jacopo Ferro - 28/06/22](#jacopo-ferro---280622)
+    - [Starting point](#starting-point)
+    - [Goals](#goals)
+    - [Tentative Curriculum](#tentative-curriculum)
+  - [Resources](#resources)
+      - [Main structured Resources:](#main-structured-resources)
+      - [Extra noteworthy resources I discovered later:](#extra-noteworthy-resources-i-discovered-later)
+  - [Workload](#workload)
+      - [Set-up, docs, progress tracking](#set-up-docs-progress-tracking)
+      - [Basics and Front-End](#basics-and-front-end)
+      - [Specialization:](#specialization)
+      - [Personal Projects and Practice:](#personal-projects-and-practice)
+  - [Day to Day](#day-to-day)
+  - [WorkLog](#worklog)
+  - [Authors](#authors)
+
 ### Starting point
 Extremely basic concepts of HTML, CSS, JS with no frameworks nor project experience.
 
 I do have general CS background and know how to code in other languages, so I hope to pick up quickly on basic syntax of the new material.
+
+---
 
 ### Goals
 Learn basics and more advance concepts of web application development.
@@ -89,7 +108,8 @@ I will add links in the second category as I study.
  - - Useful CSS base files: [Reset css](https://meyerweb.com/eric/tools/css/reset/index.html) - [Normalize CSS](https://nicolasgallagher.com/about-normalize-css/) - [Primitive CSS](https://taniarascia.github.io/primitive/css/main.css)
  - - CSS Framworks/Libraries: [TailwindCSS](https://tailwindcss.com) - [Tailwind UI kit](https://app.tailwinduikit.com) - [Headless UI](https://headlessui.com) - [Heroicons](https://heroicons.com) - [Styled Components](https://styled-components.com) - [Chakra UI](https://chakra-ui.com)
  - - Animation and others: [Three.js for 3D](https://threejs.org) - [Rive for animation](https://rive.app)
- - - Building on your own (only React or adding layers one at a time): [Babel for language definition (highlighting JSX)](https://babeljs.io/docs/en/editors) - [Webpack](https://webpack.js.org) - [Parcel (nice)](https://parceljs.org)
+ - - Building on your own (only React or adding layers one at a time): [Babel for language definition (highlighting JSX)](https://babeljs.io/docs/en/editors) - [Webpack](https://webpack.js.org) - [Parcel (nice)](https://parceljs.org) - [Vite, module bundler like webpack](https://vitejs.dev)
+ - - CMS: [Sanity](https://www.sanity.io)
 
 Note: I don't want to clutter the resources section so I won't add every resource that is directly connected to the main ones (interactive versions of the youtube courses for example).
 
