@@ -60,6 +60,9 @@ I will add links in the second category as I study.
  - - [Fast React course (1h10')](https://www.youtube.com/watch?app=desktop&v=b9eMGE7QtTk)
  - - [Starting a Node Server, (http-server for static is simplest, but had problems with it as it caches too long)](https://stackabuse.com/how-to-start-a-node-server-examples-with-the-most-popular-frameworks/)
  -  - [CSS best practices (good revision too)](https://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741)
+ - - [Fix spread operator error in scrimba files](https://techstrology.com/spread-operator-unexpected-token-javascript/)
+ - - [Create React app without CRA](https://blog.bitsrc.io/create-react-app-without-create-react-app-b0a5806a92) - [same](https://blog.devgenius.io/how-to-create-a-react-app-without-using-create-react-app-c004a62b52fc)
+ -
 
 - ##### Big Picture:
  - - [Cool Back-End Overview Youtube video](https://www.youtube.com/watch?v=XBu54nfzxAQ&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
@@ -68,6 +71,7 @@ I will add links in the second category as I study.
  - - [Website builders: WordPress, Wix](https://www.tooltester.com/en/blog/wix-vs-wordpress/) - [WordPress .com vs .org](https://www.tooltester.com/en/blog/wordpress-com-vs-wordpress-org/)
  - - Web Scraping/Interactions: [Axiom vs Fetch](https://www.geeksforgeeks.org/difference-between-fetch-and-axios-js-for-making-http-requests/) - [What is Puppeteer](https://www.educative.io/answers/what-is-puppeteer)
  - - [RSS feeds](https://zapier.com/blog/how-to-use-rss-feeds/) - [Feedly (uses RSS feeds)](https://feedly.com)
+ - - [TailwindCSS vs styled-components](https://dev.to/willholmes/tailwindcss-vs-styled-components-in-reactjs-188j)
 
 - ##### Cool examples:
  - - [Tania Rascia cool personal site with tutorials and articles](https://www.taniarascia.com)
@@ -75,18 +79,17 @@ I will add links in the second category as I study.
 - ##### Frameworks pins & docs, official references:
  - - [React Official Site, has nice tutorials](https://reactjs.org)
  - - [Codepen Online social coding environment](https://codepen.io)
- - - [Styled Components](https://styled-components.com)
  - - [Typescript](https://www.typescriptlang.org)
- - - [Rive for animation](https://rive.app)
- - - [Gatsby framework](https://www.gatsbyjs.com) - [Gatsby advanced starter](https://github.com/vagr9k/gatsby-advanced-starter/)
- - - [Netflify to build and deploy](https://www.netlify.com)
+ - - [http-server](https://www.npmjs.com/package/http-server) - [Live Server](https://www.npmjs.com/package/live-server)
+ - - React Frameworks: [Gatsby framework](https://www.gatsbyjs.com) - [Gatsby advanced starter](https://github.com/vagr9k/gatsby-advanced-starter/) - [Create-React-App docs](https://create-react-app.dev/docs/getting-started) - [Next.js](https://nextjs.org)
+ - - Build and deploy: [Netflify to build and deploy](https://www.netlify.com) - [Vercel](https://vercel.com/home?utm_source=next-site&utm_medium=banner&utm_campaign=next-website) - [Railway](https://railway.app) - [Heroku (fullstack)](https://www.heroku.com/home)
  - - [Contentful for content management](https://www.contentful.com)
  - - [Figma for design](https://www.figma.com)
  - - Web interactions (scraping and more): [Axios as better Fetch](https://axios-http.com) - [Cheerio for parsing HTML on server with Node.js](https://cheerio.js.org) - [Puppeteer as cheerio on steroids, simulates browser](https://github.com/puppeteer/puppeteer)
- - - [Babel for language definition (highlighting JSX)](https://babeljs.io/docs/en/editors)
- - - [http-server](https://www.npmjs.com/package/http-server) - [Live Server](https://www.npmjs.com/package/live-server)
- - - [Create-React-App docs](https://create-react-app.dev/docs/getting-started)
- - - Useful CSS base files:[Reset css](https://meyerweb.com/eric/tools/css/reset/index.html) - [Normalize CSS](https://nicolasgallagher.com/about-normalize-css/) - [Primitive CSS](https://taniarascia.github.io/primitive/css/main.css)
+ - - Useful CSS base files: [Reset css](https://meyerweb.com/eric/tools/css/reset/index.html) - [Normalize CSS](https://nicolasgallagher.com/about-normalize-css/) - [Primitive CSS](https://taniarascia.github.io/primitive/css/main.css)
+ - - CSS Framworks/Libraries: [TailwindCSS](https://tailwindcss.com) - [Tailwind UI kit](https://app.tailwinduikit.com) - [Headless UI](https://headlessui.com) - [Heroicons](https://heroicons.com) - [Styled Components](https://styled-components.com) - [Chakra UI](https://chakra-ui.com)
+ - - Animation and others: [Three.js for 3D](https://threejs.org) - [Rive for animation](https://rive.app)
+ - - Building on your own (only React or adding layers one at a time): [Babel for language definition (highlighting JSX)](https://babeljs.io/docs/en/editors) - [Webpack](https://webpack.js.org) - [Parcel (nice)](https://parceljs.org)
 
 Note: I don't want to clutter the resources section so I won't add every resource that is directly connected to the main ones (interactive versions of the youtube courses for example).
 
@@ -142,27 +145,33 @@ Just Kidding here's a tentative table I will update with various logs:
 
 ## WorkLog
 
-| Log      | Topic        | Net Hours     | Notes                                                     |
-|----------|--------------|---------------|-----------------------------------------------------------|
-| 28/06/22 | Setup        | 5h            | git, atom, resources, *README*                            |
-| 28/06/22 | HTML         | 2h40'         | followed video HTML                                       |
-| 29/06/22 | CSS          | 2h            | video CSS, then interactive version                       |
-| 29/06/22 | Other        | 1h            | articles and peak at new resources                        |
-| 30/06/22 | Other        | 1h30'         |                                                           |
-| 30/06/22 | CSS          | 2h30'         | CSS basics and Grid                                       |
-| 01/07/22 | CSS & Other  | 1h15' + 1h15' | CSS flexbox & considering Vue.js instead of React         |
-| 01/07/22 | JS           | 1h            | Setup Atom and start course                               |
-| 03/07/22 | JS           | 7h            | JS course, HOF, JSDoc                                     |
-| 04/07/22 | JS Projects  | 1h40'         | Vanilla JS Color Flipper, Counter                         |
-| 04/07/22 | Other        | 2h30'         | Site builders, DOM, React & other resources               |
-| 04/07/22 | React        | 1h50'         | Cut time on Vanilla HTML/CSS/JS projects, dive into React |
-| 05/07/22 | React, Other | 3h30'         | Discovered and added a bunch of side resources            |
-| 06/07/22 | Other        | 1h            | Cleaned Resources                                         |
-| 06/07/22 | React        | 2h'30         | Still absorbing basic resources and Setup react           |
-| 08/07/22 | React        | 1h            | More setup and course                                     |
-| 09/07/22 | React        | 5h            | Course + Trying to solve problems with import/export!     |
-| 09/07/22 | React        | 1h            | stick with create-react-app                               |
-| 10/07/22 | CSS, React   | 4h15'         | React Info_Site, Figma, CSS practice                      |
+| Log      | Topic             | Net Hours     | Notes                                                      |
+|----------|-------------------|---------------|------------------------------------------------------------|
+| 28/06/22 | Setup             | 5h            | git, atom, resources, *README*                             |
+| 28/06/22 | HTML              | 2h40'         | followed video HTML                                        |
+| 29/06/22 | CSS               | 2h            | video CSS, then interactive version                        |
+| 29/06/22 | Other             | 1h            | articles and peak at new resources                         |
+| 30/06/22 | Other             | 1h30'         |                                                            |
+| 30/06/22 | CSS               | 2h30'         | CSS basics and Grid                                        |
+| 01/07/22 | CSS & Other       | 1h15' + 1h15' | CSS flexbox & considering Vue.js instead of React          |
+| 01/07/22 | JS                | 1h            | Setup Atom and start course                                |
+| 03/07/22 | JS                | 7h            | JS course, HOF, JSDoc                                      |
+| 04/07/22 | JS Projects       | 1h40'         | Vanilla JS Color Flipper, Counter                          |
+| 04/07/22 | Other             | 2h30'         | Site builders, DOM, React & other resources                |
+| 04/07/22 | React             | 1h50'         | Cut time on Vanilla HTML/CSS/JS projects, dive into React  |
+| 05/07/22 | React, Other      | 3h30'         | Discovered and added a bunch of side resources             |
+| 06/07/22 | Other             | 1h            | Cleaned Resources                                          |
+| 06/07/22 | React             | 2h'30         | Still absorbing basic resources and Setup react            |
+| 08/07/22 | React             | 1h            | More setup and course                                      |
+| 09/07/22 | React             | 5h            | Course + Trying to solve problems with import/export!      |
+| 09/07/22 | React             | 1h            | stick with create-react-app                                |
+| 10/07/22 | CSS, React        | 5h15'         | React Info_Site, Figma, CSS practice                       |
+| 10/07/22 | React, Other      | 1h30'         | Use Scrimba files, less weight than create-react-app       |
+| 11/07/22 | React             | 1h45'         | AirBnB Clone using Scrimba code, will follow course faster |
+| 11/07/22 | React             | 1h            | SetState on vars, on objects, on arrays                    |
+| 12/07/22 | React, Other      | 4h            | More react, modded light setup with webpack                |
+| 13/07/22 | React, CSS, Other | 2h10'         | Tailwind CSS, webpack setup, babel, other cool stuff       |
+|14/07/22   | React, CSS, Other  | 7h  |Understanding frameworks, TailwindCSS   |
 
 *Other* refers to exploration regarding curriculum, further articles, project ideas and in general lateral activities and learning that are parallel to the main focus but would be harder to keep track precisely.  
 Examples: markdown and environment for the *README*, articles about tech stacks, docs of Frameworks/libraries and more.
