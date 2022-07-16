@@ -91,25 +91,29 @@ I will add links in the second category as I study.
  - - Web Scraping/Interactions: [Axiom vs Fetch](https://www.geeksforgeeks.org/difference-between-fetch-and-axios-js-for-making-http-requests/) - [What is Puppeteer](https://www.educative.io/answers/what-is-puppeteer)
  - - [RSS feeds](https://zapier.com/blog/how-to-use-rss-feeds/) - [Feedly (uses RSS feeds)](https://feedly.com)
  - - [TailwindCSS vs styled-components](https://dev.to/willholmes/tailwindcss-vs-styled-components-in-reactjs-188j)
+ - - [Wordpress vs Headless CMS](https://www.solutelabs.com/blog/wordpress-vs-headless-cms-difference)
+ - - [What is  JAMstack site](https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/)
+ - - [Gatsby vs Next](https://hygraph.com/blog/gatsby-vs-nextjs)
 
 - ##### Cool examples:
  - - [Tania Rascia cool personal site with tutorials and articles](https://www.taniarascia.com)
+ - - [How to host Sanity Studio and automate build with GitHub Actions](https://www.andyfitzgeraldconsulting.com/writing/self-hosting-sanity-studio/)
 
 - ##### Frameworks pins & docs, official references:
  - - [React Official Site, has nice tutorials](https://reactjs.org)
  - - [Codepen Online social coding environment](https://codepen.io)
  - - [Typescript](https://www.typescriptlang.org)
  - - [http-server](https://www.npmjs.com/package/http-server) - [Live Server](https://www.npmjs.com/package/live-server)
- - - React Frameworks: [Gatsby framework](https://www.gatsbyjs.com) - [Gatsby advanced starter](https://github.com/vagr9k/gatsby-advanced-starter/) - [Create-React-App docs](https://create-react-app.dev/docs/getting-started) - [Next.js](https://nextjs.org)
+ - - React Frameworks: [Gatsby framework](https://www.gatsbyjs.com) - [Gatsby advanced starter](https://github.com/vagr9k/gatsby-advanced-starter/) - [Create-React-App docs](https://create-react-app.dev/docs/getting-started) - [Next.js](https://nextjs.org) - [LIST of Site Generators on JAMstack](https://jamstack.org/generators/)
  - - Build and deploy: [Netflify to build and deploy](https://www.netlify.com) - [Vercel](https://vercel.com/home?utm_source=next-site&utm_medium=banner&utm_campaign=next-website) - [Railway](https://railway.app) - [Heroku (fullstack)](https://www.heroku.com/home)
- - - [Contentful for content management](https://www.contentful.com)
  - - [Figma for design](https://www.figma.com)
  - - Web interactions (scraping and more): [Axios as better Fetch](https://axios-http.com) - [Cheerio for parsing HTML on server with Node.js](https://cheerio.js.org) - [Puppeteer as cheerio on steroids, simulates browser](https://github.com/puppeteer/puppeteer)
  - - Useful CSS base files: [Reset css](https://meyerweb.com/eric/tools/css/reset/index.html) - [Normalize CSS](https://nicolasgallagher.com/about-normalize-css/) - [Primitive CSS](https://taniarascia.github.io/primitive/css/main.css)
- - - CSS Framworks/Libraries: [TailwindCSS](https://tailwindcss.com) - [Tailwind UI kit](https://app.tailwinduikit.com) - [Headless UI](https://headlessui.com) - [Heroicons](https://heroicons.com) - [Styled Components](https://styled-components.com) - [Chakra UI](https://chakra-ui.com)
+ - - CSS Framworks/Libraries: [TailwindCSS](https://tailwindcss.com) - [Tailwind UI kit](https://app.tailwinduikit.com) - [Headless UI](https://headlessui.com) - [Heroicons](https://heroicons.com) - [Styled Components](https://styled-components.com) - [Chakra UI](https://chakra-ui.com) - [Daisy UI](https://daisyui.com)
  - - Animation and others: [Three.js for 3D](https://threejs.org) - [Rive for animation](https://rive.app)
  - - Building on your own (only React or adding layers one at a time): [Babel for language definition (highlighting JSX)](https://babeljs.io/docs/en/editors) - [Webpack](https://webpack.js.org) - [Parcel (nice)](https://parceljs.org) - [Vite, module bundler like webpack](https://vitejs.dev)
- - - CMS: [Sanity](https://www.sanity.io)
+ - - CMS: [Sanity](https://www.sanity.io) - [Contentful](https://www.contentful.com) - [Strapi](https://strapi.io) - [Hygraph](https://hygraph.com) - [LIST of Headless CMS on JAMstack](https://jamstack.org/headless-cms/)
+ - [Measuring website performance, SEO](https://pagespeed.web.dev)
 
 Note: I don't want to clutter the resources section so I won't add every resource that is directly connected to the main ones (interactive versions of the youtube courses for example).
 
@@ -191,7 +195,9 @@ Just Kidding here's a tentative table I will update with various logs:
 | 11/07/22 | React             | 1h            | SetState on vars, on objects, on arrays                    |
 | 12/07/22 | React, Other      | 4h            | More react, modded light setup with webpack                |
 | 13/07/22 | React, CSS, Other | 2h10'         | Tailwind CSS, webpack setup, babel, other cool stuff       |
-|14/07/22   | React, CSS, Other  | 7h  |Understanding frameworks, TailwindCSS   |
+| 14/07/22 | React, CSS, Other | 7h            | Understanding frameworks, TailwindCSS                      |
+| 15/07/22 | React, Other      |               | Frameworks 'fatigue'! Many hours understanding big picture |
+| 16/07/22 | React             |               | Sidetracking: experimenting with Gatsby, TailwindCSS       |
 
 *Other* refers to exploration regarding curriculum, further articles, project ideas and in general lateral activities and learning that are parallel to the main focus but would be harder to keep track precisely.  
 Examples: markdown and environment for the *README*, articles about tech stacks, docs of Frameworks/libraries and more.
