@@ -108,6 +108,7 @@ I will add links in the second category as I study.
  - - [React Official Site, has nice tutorials](https://reactjs.org)
  - - [Codepen Online social coding environment](https://codepen.io)
  - - [Typescript](https://www.typescriptlang.org) - [MDX](https://mdxjs.com)
+ - - [Deno as JS/TS environment (Instead of Node)](https://deno.land) - [Fresh as fullstack framework of Deno](https://fresh.deno.dev)
  - - [http-server](https://www.npmjs.com/package/http-server) - [Live Server](https://www.npmjs.com/package/live-server)
  - - React Frameworks: [Gatsby framework](https://www.gatsbyjs.com) - [Gatsby advanced starter](https://github.com/vagr9k/gatsby-advanced-starter/) - [Create-React-App docs](https://create-react-app.dev/docs/getting-started) - [Next.js](https://nextjs.org) - [LIST of Site Generators on JAMstack](https://jamstack.org/generators/)
  - - Build and deploy: [Netflify to build and deploy](https://www.netlify.com) - [Vercel](https://vercel.com/home?utm_source=next-site&utm_medium=banner&utm_campaign=next-website) - [Railway](https://railway.app) - [Heroku (fullstack)](https://www.heroku.com/home)
@@ -206,6 +207,7 @@ Just Kidding here's a tentative table I will update with various logs:
 | 17/07/22 |              |               |         |
 | 18/07/22 |              |               |         |
 | 19/07/22 |              |               |         |
+|25/07/22   |   |   |   |
 
 *Other* refers to exploration regarding curriculum, further articles, project ideas and in general lateral activities and learning that are parallel to the main focus but would be harder to keep track precisely.  
 Examples: markdown and environment for the *README*, articles about tech stacks, docs of Frameworks/libraries and more.
