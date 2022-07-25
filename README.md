@@ -82,6 +82,7 @@ I will add links in the second category as I study.
  - - [Fix spread operator error in scrimba files](https://techstrology.com/spread-operator-unexpected-token-javascript/)
  - - [Create React app without CRA](https://blog.bitsrc.io/create-react-app-without-create-react-app-b0a5806a92) - [same](https://blog.devgenius.io/how-to-create-a-react-app-without-using-create-react-app-c004a62b52fc)
  - - [VSCode TailwindCSS plugin bug fix](https://stackoverflow.com/questions/61343447/my-tailwind-css-intellisense-plugin-just-isnt-working-on-my-vscode?page=1&tab=scoredesc#tab-top)
+ - - [gatsby-plugin-mdx bug fix for legacy dependencies](https://peaku.co/questions/120958-no-se-puede-instalar-y-configurar-el-complemento-de-transformador-mdx-(y-las-dependencias)-en-el-sitio-de-gatsby)
 
 - ##### Big Picture:
  - - [Cool Back-End Overview Youtube video](https://www.youtube.com/watch?v=XBu54nfzxAQ&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
@@ -122,6 +123,7 @@ I will add links in the second category as I study.
  - - Testing: [cypress](https://www.cypress.io) - [Measuring website performance, SEO](https://pagespeed.web.dev)
  - - Editors/IDE: [Obsidian for MD(X)](https://obsidian.md) - [Atom](https://atom.io) - [Sublime Text](https://www.sublimetext.com) - [VS Code](https://code.visualstudio.com)
  - - Miscellaneous Resources: [example.com](https://example.com) - [placeholder.com](https://placeholder.com)
+ - - Remark Plugins: [Prismjs for code highlighting](https://prismjs.com)
 
 Note: I don't want to clutter the resources section so I won't add every resource that is directly connected to the main ones (interactive versions of the youtube courses for example).
 
@@ -209,7 +211,7 @@ Just Kidding here's a tentative table I will update with various logs:
 | 17/07/22 |              |               |         |
 | 18/07/22 |              |               |         |
 | 19/07/22 |              |               |         |
-|25/07/22   |   |   |   |
+|25/07/22   |   |   | Continuing the Gatsby tutorial + Tailwind|
 
 *Other* refers to exploration regarding curriculum, further articles, project ideas and in general lateral activities and learning that are parallel to the main focus but would be harder to keep track precisely.  
 Examples: markdown and environment for the *README*, articles about tech stacks, docs of Frameworks/libraries and more.
