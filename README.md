@@ -101,25 +101,27 @@ I will add links in the second category as I study.
  - - [Josh Comeau](https://www.joshwcomeau.com)
  - - [React Scroll Parallax demo](https://jscottsmith.github.io/react-scroll-parallax-examples/examples/parallax-example/)
  - - [React Examples library](https://reactjsexample.com)
- - - Inspo collections: [Brutalist](https://brutalistwebsites.com) - [Pttrns](https://www.pttrns.com) - [Awwwards](https://www.awwwards.com)
+ - - Inspo collections: [Brutalist](https://brutalistwebsites.com) - [Pttrns](https://www.pttrns.com) - [Awwwards](https://www.awwwards.com) - [One Page Love](https://onepagelove.com)
  - - Digital Gardens: [Tom Critchlow Digital Garden](https://tomcritchlow.com) - [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes) - [Collection of Digital Gardens](https://github.com/kyrose/awesome-digital-gardens) - [Second Brains/Gardens](https://github.com/KasperZutterman/Second-Brain) - [Digital Zen Garden](https://notes.binnyva.com) and [Gatsby Plugin](https://www.gatsbyjs.com/plugins/gatsby-garden/) - [Another Gatsby plugin](https://www.gatsbyjs.com/plugins/gatsby-theme-networked-thought/?=mdx) - [This in chinese](https://oldwinter.top/AboutTheGarden) + [source](https://github.com/oldwinter/knowledge-garden)
 
 - ##### Frameworks pins & docs, official references:
  - - [React Official Site, has nice tutorials](https://reactjs.org)
  - - [Codepen Online social coding environment](https://codepen.io)
- - - [Typescript](https://www.typescriptlang.org) - [MDX](https://mdxjs.com)
+ - - [Typescript](https://www.typescriptlang.org) - [MDX](https://mdxjs.com) - [MDN web docs](https://developer.mozilla.org)
  - - [Deno as JS/TS environment (Instead of Node)](https://deno.land) - [Fresh as fullstack framework of Deno](https://fresh.deno.dev)
  - - [http-server](https://www.npmjs.com/package/http-server) - [Live Server](https://www.npmjs.com/package/live-server)
  - - React Frameworks: [Gatsby framework](https://www.gatsbyjs.com) - [Gatsby advanced starter](https://github.com/vagr9k/gatsby-advanced-starter/) - [Create-React-App docs](https://create-react-app.dev/docs/getting-started) - [Next.js](https://nextjs.org) - [LIST of Site Generators on JAMstack](https://jamstack.org/generators/)
  - - Build and deploy: [Netflify to build and deploy](https://www.netlify.com) - [Vercel](https://vercel.com/home?utm_source=next-site&utm_medium=banner&utm_campaign=next-website) - [Railway](https://railway.app) - [Heroku (fullstack)](https://www.heroku.com/home)
  - - [Figma for design](https://www.figma.com)
  - - Web interactions (scraping and more): [Axios as better Fetch](https://axios-http.com) - [Cheerio for parsing HTML on server with Node.js](https://cheerio.js.org) - [Puppeteer as cheerio on steroids, simulates browser](https://github.com/puppeteer/puppeteer)
- - - Useful CSS base files: [Reset css](https://meyerweb.com/eric/tools/css/reset/index.html) - [Normalize CSS](https://nicolasgallagher.com/about-normalize-css/) - [Primitive CSS](https://taniarascia.github.io/primitive/css/main.css)
- - - CSS Framworks/Libraries: [TailwindCSS](https://tailwindcss.com) - [Tailwind UI kit](https://app.tailwinduikit.com) - [Headless UI](https://headlessui.com) - [Heroicons](https://heroicons.com) - [Styled Components](https://styled-components.com) - [Chakra UI](https://chakra-ui.com) - [Daisy UI](https://daisyui.com) - [Tailwind Components](https://tailwindcomponents.com) - [Flowbite (Tailwind)](https://flowbite.com) - [One Page Love](https://onepagelove.com)
- - - Animation and others: [Three.js for 3D](https://threejs.org) - [Rive for animation](https://rive.app) - [Coolors to create/choose color palettes](https://coolors.co) - [React Spring](https://react-spring.dev) - [Framer Motion](https://www.framer.com/motion/) - [Pattern Library](http://thepatternlibrary.com) - [React Scroll Parallax ](https://react-scroll-parallax.damnthat.tv/docs/intro/)
+ - - Useful CSS base files: [Reset css](https://meyerweb.com/eric/tools/css/reset/index.html) - [Normalize CSS](https://nicolasgallagher.com/about-normalize-css/) - [Primitive CSS](https://taniarascia.github.io/primitive/css/main.css) - [Modern Normalize](https://github.com/sindresorhus/modern-normalize)
+ - - CSS Framworks/Libraries: [TailwindCSS](https://tailwindcss.com) - [Tailwind UI kit](https://app.tailwinduikit.com) - [Headless UI](https://headlessui.com) - [Heroicons](https://heroicons.com) - [Styled Components](https://styled-components.com) - [Chakra UI](https://chakra-ui.com) - [Daisy UI](https://daisyui.com) - [Tailwind Components](https://tailwindcomponents.com) - [Flowbite (Tailwind)](https://flowbite.com) - [One Page Love Templates](https://onepagelove.com/templates)
+ - - Animation and others: [Three.js for 3D](https://threejs.org) - [Rive for animation](https://rive.app) - [Coolors to create/choose color palettes](https://coolors.co) and [palettte](https://palettte.app) - [React Spring](https://react-spring.dev) - [Framer Motion](https://www.framer.com/motion/) - [Pattern Library](http://thepatternlibrary.com) - [React Scroll Parallax ](https://react-scroll-parallax.damnthat.tv/docs/intro/)
  - - Building on your own (only React or adding layers one at a time): [Babel for language definition (highlighting JSX)](https://babeljs.io/docs/en/editors) - [Webpack](https://webpack.js.org) - [Parcel (nice)](https://parceljs.org) - [Vite, module bundler like webpack](https://vitejs.dev)
  - - CMS: [Sanity](https://www.sanity.io) - [Contentful](https://www.contentful.com) - [Strapi](https://strapi.io) - [Hygraph](https://hygraph.com) - [LIST of Headless CMS on JAMstack](https://jamstack.org/headless-cms/)
- - [Measuring website performance, SEO](https://pagespeed.web.dev)
+ - - Testing: [cypress](https://www.cypress.io) - [Measuring website performance, SEO](https://pagespeed.web.dev)
+ - - Editors/IDE: [Obsidian for MD(X)](https://obsidian.md) - [Atom](https://atom.io) - [Sublime Text](https://www.sublimetext.com) - [VS Code](https://code.visualstudio.com)
+ - - Miscellaneous Resources: [example.com](https://example.com) - [placeholder.com](https://placeholder.com)
 
 Note: I don't want to clutter the resources section so I won't add every resource that is directly connected to the main ones (interactive versions of the youtube courses for example).
 
