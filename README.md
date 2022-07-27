@@ -107,6 +107,8 @@ I will add links in the second category as I study.
  - - Inspo collections: [Brutalist](https://brutalistwebsites.com) - [Pttrns](https://www.pttrns.com) - [Awwwards](https://www.awwwards.com) - [One Page Love](https://onepagelove.com)
  - - Digital Gardens: [Tom Critchlow Digital Garden](https://tomcritchlow.com) - [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes) - [Collection of Digital Gardens](https://github.com/kyrose/awesome-digital-gardens) - [Second Brains/Gardens](https://github.com/KasperZutterman/Second-Brain) - [Digital Zen Garden](https://notes.binnyva.com) and [Gatsby Plugin](https://www.gatsbyjs.com/plugins/gatsby-garden/) - [Another Gatsby plugin](https://www.gatsbyjs.com/plugins/gatsby-theme-networked-thought/?=mdx) - [This in chinese](https://oldwinter.top/AboutTheGarden) + [source](https://github.com/oldwinter/knowledge-garden)
  - - [Create npm package](https://dev.to/souravdey777/creating-your-own-npm-package-4f4g)
+ - - [Event Scheduler App](https://github.com/AhmedAlatawi/react-event-scheduler)
+ - - [Takuya Matsuyama personal site](https://www.craftz.dog)
 
 - ##### Frameworks pins & docs, official references:
  - - [React Official Site, has nice tutorials](https://reactjs.org)
@@ -125,9 +127,10 @@ I will add links in the second category as I study.
  - - CMS: [Sanity](https://www.sanity.io) - [Contentful](https://www.contentful.com) - [Strapi](https://strapi.io) - [Hygraph](https://hygraph.com) - [LIST of Headless CMS on JAMstack](https://jamstack.org/headless-cms/)
  - - Testing: [cypress](https://www.cypress.io) - [Measuring website performance, SEO](https://pagespeed.web.dev) - [Can I Use](https://caniuse.com)
  - - Editors/IDE: [Obsidian for MD(X)](https://obsidian.md) - [Atom](https://atom.io) - [Sublime Text](https://www.sublimetext.com) - [VS Code](https://code.visualstudio.com)
- - - Miscellaneous Resources: [example.com](https://example.com) - [placeholder.com](https://placeholder.com)
+ - - Miscellaneous Resources: [example.com](https://example.com) - [placeholder.com](https://placeholder.com) - [Add-to-calendar Button](https://add-to-calendar-button.com) - [Moment JS](https://momentjs.com) - [DayJS](https://day.js.org/en/) - [Date, Time, Range Pickers](https://projects.wojtekmaj.pl/react-time-picker/) - [React drag range](https://www.npmjs.com/package/react-drag-range) - [React DateTime](https://www.npmjs.com/package/react-datetime) - [React Date-Range (Nice, draggable)](https://hypeserver.github.io/react-date-range/)
  - - Remark Plugins/Styling MDX: [Prismjs for code highlighting](https://prismjs.com) - [Highlight for code highlighting](https://highlightjs.org) - [Remark](https://remark.js.org)  - [Typography.js demo](http://kyleamathews.github.io/typography.js/) and [source](https://github.com/KyleAMathews/typography.js) - [Theme UI (creating themes, more than mdx)](https://theme-ui.com)
  - - [CSS Tricks](https://css-tricks.com)
+ - - [Unpkg to open npm packages](https://unpkg.com) - [npm](https://www.npmjs.com)
 
 Note: I don't want to clutter the resources section so I won't add every resource that is directly connected to the main ones (interactive versions of the youtube courses for example).
 
@@ -215,7 +218,9 @@ Just Kidding here's a tentative table I will update with various logs:
 | 17/07/22 |              |               |         |
 | 18/07/22 |              |               |         |
 | 19/07/22 |              |               |         |
-|25/07/22   |   |   | Continuing the Gatsby tutorial + Tailwind|
+|25/07/22   | React, Tailwind, Gatsby |   | Gatsby tutorial + Tailwind + DaisyUI & Others|
+| 26/07/22 | React, npm, TailwindCSS, Gatsby   |               |Created npm tailwind-gradients package, Find a Time app          |
+
 
 *Other* refers to exploration regarding curriculum, further articles, project ideas and in general lateral activities and learning that are parallel to the main focus but would be harder to keep track precisely.  
 Examples: markdown and environment for the *README*, articles about tech stacks, docs of Frameworks/libraries and more.
