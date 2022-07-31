@@ -97,6 +97,8 @@ I will add links in the second category as I study.
  - - [Wordpress vs Headless CMS](https://www.solutelabs.com/blog/wordpress-vs-headless-cms-difference)
  - - [What is  JAMstack site](https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/)
  - - [Gatsby vs Next](https://hygraph.com/blog/gatsby-vs-nextjs)
+ - - [What is 'Polyfill'](https://developer.mozilla.org/en-US/docs/Glossary/Polyfill)
+ - - [What is 'Vendoring'](https://stackoverflow.com/questions/26217488/what-is-vendoring#:~:text=Vendoring%20is%20the%20act%20of,but%20the%20concept%20still%20applies.)
 
 - ##### Cool examples:
  - - [Tania Rascia cool personal site with tutorials and articles](https://www.taniarascia.com)
