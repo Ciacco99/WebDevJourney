@@ -1,12 +1,10 @@
 
-# WebDevJourney
-
-## Jacopo Ferro - 28/06/22
+# WebDevJourney, Jacopo Ferro, 28/06/22
 
 Web Development learning journey for the next weeks.
 
 ---
-
+## TOC
 - [WebDevJourney](#webdevjourney)
   - [Jacopo Ferro - 28/06/22](#jacopo-ferro---280622)
     - [Starting point](#starting-point)
@@ -24,14 +22,14 @@ Web Development learning journey for the next weeks.
   - [WorkLog](#worklog)
   - [Authors](#authors)
 
-### Starting point
+## Starting point
 Extremely basic concepts of HTML, CSS, JS with no frameworks nor project experience.
 
 I do have general CS background and know how to code in other languages, so I hope to pick up quickly on basic syntax of the new material.
 
 ---
 
-### Goals
+## Goals
 Learn basics and more advance concepts of web application development.
 
 Learn useful frameworks, good practices, workflows. Keep track of progress and versions.
@@ -40,7 +38,7 @@ Build an application for personal fun and learning.
 
 ---
 
-### Tentative Curriculum
+## Tentative Curriculum
 This is my broad idea of what I think is a progressive curriculum for what I want to learn. It might change because as of now I don't have a good idea of what exactly is even required.
 - HTML
 - CSS
@@ -58,7 +56,7 @@ along the way. Eventually introducing Back-End and frameworks that are actually 
 Main resources I plan on using and other resources I stumbled upon while following the curriculum.
 I will add links in the second category as I study.
 
-#### Main structured Resources:
+### Main structured Resources:
  - #### [Coursera HTML, CSS, JS (40h course) ](https://www.coursera.org/learn/html-css-javascript-for-web-developers#syllabus)
  - #### [Youtube Playlist WebDev:](https://www.youtube.com/playlist?list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
  - - [HTML (2h)](https://www.youtube.com/watch?v=pQN-pnXPaVg&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX) - [CSS (1.5h)](https://www.youtube.com/watch?v=ieTHC78giGQ&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)  - [JS (3.5h)](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
@@ -69,8 +67,8 @@ I will add links in the second category as I study.
  - - [Front-End Web Development with React (36h course)](https://www.coursera.org/learn/front-end-react?specialization=full-stack-react#syllabus)
  - - [Server-side Development with NodeJS, Express and MongoDB (48h course)](https://www.coursera.org/learn/server-side-nodejs?specialization=full-stack-react#syllabus)
 
-#### Extra noteworthy resources I discovered later:
-- ##### Curriculum Related:
+### Extra noteworthy resources I discovered later:
+- #### Curriculum Related:
  - - [Higher Order Functions article](https://www.freecodecamp.org/news/higher-order-functions-in-javascript-examples/)
  - - [JSDoc to document JavaScript programs](https://jsdoc.app) found trough [this article](https://gomakethings.com/whats-the-best-way-to-document-javascript/)
  -  - [Import-Export Article (I got errors when texting offline)](https://javascript.info/import-export)
@@ -85,13 +83,15 @@ I will add links in the second category as I study.
  - - [gatsby-plugin-mdx bug fix for legacy dependencies](https://peaku.co/questions/120958-no-se-puede-instalar-y-configurar-el-complemento-de-transformador-mdx-(y-las-dependencias)-en-el-sitio-de-gatsby)
  - - Clear Browser + gatsby cache/history when Gatbsy Link fails!
  - - [IMG vs CSS background-image](https://stackoverflow.com/questions/492809/when-to-use-img-vs-css-background-image)
+ - - [About bin executables in node](https://stackoverflow.com/questions/33509816/what-exactly-does-usr-bin-env-node-do-at-the-beginning-of-node-files)
 
-- ##### Big Picture:
+- #### Big Picture:
  - - [Cool Back-End Overview Youtube video](https://www.youtube.com/watch?v=XBu54nfzxAQ&list=PLyD3aerR31f6ODmki7GYhaLhx_jLj6aFX)
  - - [Cool Full Stack WebDev Roadmap Video](https://www.youtube.com/watch?v=xORdz1Hi9Gc)
  - - [Why React?](https://www.simform.com/blog/why-use-react/)
  - - [Website builders: WordPress, Wix](https://www.tooltester.com/en/blog/wix-vs-wordpress/) - [WordPress .com vs .org](https://www.tooltester.com/en/blog/wordpress-com-vs-wordpress-org/)
- - - Web Scraping/Interactions: [Axiom vs Fetch](https://www.geeksforgeeks.org/difference-between-fetch-and-axios-js-for-making-http-requests/) - [What is Puppeteer](https://www.educative.io/answers/what-is-puppeteer)
+ - - Web Scraping/Interactions:
+    [Axiom vs Fetch](https://www.geeksforgeeks.org/difference-between-fetch-and-axios-js-for-making-http-requests/) - [What is Puppeteer](https://www.educative.io/answers/what-is-puppeteer)
  - - [RSS feeds](https://zapier.com/blog/how-to-use-rss-feeds/) - [Feedly (uses RSS feeds)](https://feedly.com)
  - - [TailwindCSS vs styled-components](https://dev.to/willholmes/tailwindcss-vs-styled-components-in-reactjs-188j)
  - - [Wordpress vs Headless CMS](https://www.solutelabs.com/blog/wordpress-vs-headless-cms-difference)
@@ -100,39 +100,60 @@ I will add links in the second category as I study.
  - - [What is 'Polyfill'](https://developer.mozilla.org/en-US/docs/Glossary/Polyfill)
  - - [What is 'Vendoring'](https://stackoverflow.com/questions/26217488/what-is-vendoring#:~:text=Vendoring%20is%20the%20act%20of,but%20the%20concept%20still%20applies.)
 
-- ##### Cool examples:
+- #### Cool examples:
  - - [Tania Rascia cool personal site with tutorials and articles](https://www.taniarascia.com)
  - - [How to host Sanity Studio and automate build with GitHub Actions](https://www.andyfitzgeraldconsulting.com/writing/self-hosting-sanity-studio/)
  - - [Josh Comeau](https://www.joshwcomeau.com)
  - - [React Scroll Parallax demo](https://jscottsmith.github.io/react-scroll-parallax-examples/examples/parallax-example/)
  - - [React Examples library](https://reactjsexample.com)
- - - Inspo collections: [Brutalist](https://brutalistwebsites.com) - [Pttrns](https://www.pttrns.com) - [Awwwards](https://www.awwwards.com) - [One Page Love](https://onepagelove.com)
- - - Digital Gardens: [Tom Critchlow Digital Garden](https://tomcritchlow.com) - [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes) - [Collection of Digital Gardens](https://github.com/kyrose/awesome-digital-gardens) - [Second Brains/Gardens](https://github.com/KasperZutterman/Second-Brain) - [Digital Zen Garden](https://notes.binnyva.com) and [Gatsby Plugin](https://www.gatsbyjs.com/plugins/gatsby-garden/) - [Another Gatsby plugin](https://www.gatsbyjs.com/plugins/gatsby-theme-networked-thought/?=mdx) - [This in chinese](https://oldwinter.top/AboutTheGarden) + [source](https://github.com/oldwinter/knowledge-garden)
+ - - Inspo collections:
+    [Brutalist](https://brutalistwebsites.com) - [Pttrns](https://www.pttrns.com) - [Awwwards](https://www.awwwards.com) - [One Page Love](https://onepagelove.com)
+ - - Digital Gardens:
+    [Tom Critchlow Digital Garden](https://tomcritchlow.com) - [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes) - [Collection of Digital Gardens](https://github.com/kyrose/awesome-digital-gardens) - [Second Brains/Gardens](https://github.com/KasperZutterman/Second-Brain) - [Digital Zen Garden](https://notes.binnyva.com) and [Gatsby Plugin](https://www.gatsbyjs.com/plugins/gatsby-garden/) - [Another Gatsby plugin](https://www.gatsbyjs.com/plugins/gatsby-theme-networked-thought/?=mdx) - [This in chinese](https://oldwinter.top/AboutTheGarden) + [source](https://github.com/oldwinter/knowledge-garden)
  - - [Create npm package](https://dev.to/souravdey777/creating-your-own-npm-package-4f4g)
  - - [Event Scheduler App](https://github.com/AhmedAlatawi/react-event-scheduler)
  - - [Takuya Matsuyama personal site](https://www.craftz.dog)
 
-- ##### Frameworks pins & docs, official references:
+- #### Frameworks pins & docs, official references:
  - - [React Official Site, has nice tutorials](https://reactjs.org)
  - - [Codepen Online social coding environment](https://codepen.io) - [CodeSandbox](https://codesandbox.io)
  - - [Typescript](https://www.typescriptlang.org) - [MDX](https://mdxjs.com) - [MDN web docs](https://developer.mozilla.org)
  - - [Deno as JS/TS environment (Instead of Node)](https://deno.land) - [Fresh as fullstack framework of Deno](https://fresh.deno.dev)
  - - [http-server](https://www.npmjs.com/package/http-server) - [Live Server](https://www.npmjs.com/package/live-server)
- - - React Frameworks: [Gatsby framework](https://www.gatsbyjs.com) - [Gatsby advanced starter](https://github.com/vagr9k/gatsby-advanced-starter/) - [Create-React-App docs](https://create-react-app.dev/docs/getting-started) - [Next.js](https://nextjs.org) - [LIST of Site Generators on JAMstack](https://jamstack.org/generators/)
- - - Build and deploy: [Netflify to build and deploy](https://www.netlify.com) - [Vercel](https://vercel.com/home?utm_source=next-site&utm_medium=banner&utm_campaign=next-website) - [Railway](https://railway.app) - [Heroku (fullstack)](https://www.heroku.com/home)
+ - - React Frameworks:
+    [Gatsby framework](https://www.gatsbyjs.com) - [Gatsby advanced starter](https://github.com/vagr9k/gatsby-advanced-starter/) - [Create-React-App docs](https://create-react-app.dev/docs/getting-started) - [Next.js](https://nextjs.org) - [LIST of Site Generators on JAMstack](https://jamstack.org/generators/)
+ - - Build and deploy:
+    [Netflify to build and deploy](https://www.netlify.com) - [Vercel](https://vercel.com/home?utm_source=next-site&utm_medium=banner&utm_campaign=next-website) - [Railway](https://railway.app) - [Heroku (fullstack)](https://www.heroku.com/home)
  - - [Figma for design](https://www.figma.com)
- - - Web interactions (scraping and more): [Axios as better Fetch](https://axios-http.com) - [Cheerio for parsing HTML on server with Node.js](https://cheerio.js.org) - [Puppeteer as cheerio on steroids, simulates browser](https://github.com/puppeteer/puppeteer)
- - - Useful CSS base files: [Reset css](https://meyerweb.com/eric/tools/css/reset/index.html) - [Normalize CSS](https://nicolasgallagher.com/about-normalize-css/) - [Primitive CSS](https://taniarascia.github.io/primitive/css/main.css) - [Modern Normalize](https://github.com/sindresorhus/modern-normalize)
- - - CSS Framworks/Libraries: [TailwindCSS](https://tailwindcss.com) - [Tailwind UI kit](https://app.tailwinduikit.com) - [Headless UI](https://headlessui.com) - [Heroicons](https://heroicons.com) - [Styled Components](https://styled-components.com) - [Chakra UI](https://chakra-ui.com) - [Daisy UI](https://daisyui.com) - [Tailwind Components](https://tailwindcomponents.com) - [Flowbite (Tailwind)](https://flowbite.com) - [One Page Love Templates](https://onepagelove.com/templates) - [HyperUI](https://www.hyperui.dev) - [Tailwind Awesome](https://www.tailwindawesome.com) - [Hypercolor for Gradients](https://hypercolor.dev)
- - - Animation and others: [Three.js for 3D](https://threejs.org) - [Rive for animation](https://rive.app) - [Coolors to create/choose color palettes](https://coolors.co) and [palettte](https://palettte.app) - [React Spring](https://react-spring.dev) - [Framer Motion](https://www.framer.com/motion/) - [Pattern Library](http://thepatternlibrary.com) - [React Scroll Parallax ](https://react-scroll-parallax.damnthat.tv/docs/intro/) - [Theme Change (good with DaisyUI to switch quickly)](https://github.com/saadeghi/theme-change)
- - - Building on your own (only React or adding layers one at a time): [Babel for language definition (highlighting JSX)](https://babeljs.io/docs/en/editors) - [Webpack](https://webpack.js.org) - [Parcel (nice)](https://parceljs.org) - [Vite, module bundler like webpack](https://vitejs.dev)
+ - - Web interactions (scraping and more):
+    [Axios as better Fetch](https://axios-http.com) - [Cheerio for parsing HTML on server with Node.js](https://cheerio.js.org) - [Puppeteer as cheerio on steroids, simulates browser](https://github.com/puppeteer/puppeteer)
+ - - Useful CSS base files:
+    [Reset css](https://meyerweb.com/eric/tools/css/reset/index.html) - [Normalize CSS](https://nicolasgallagher.com/about-normalize-css/) - [Primitive CSS](https://taniarascia.github.io/primitive/css/main.css) - [Modern Normalize](https://github.com/sindresorhus/modern-normalize)
+ - - CSS Framworks/Libraries:
+    [TailwindCSS](https://tailwindcss.com) - [Tailwind UI kit](https://app.tailwinduikit.com) - [Headless UI](https://headlessui.com) - [Heroicons](https://heroicons.com) - [Styled Components](https://styled-components.com) - [Chakra UI](https://chakra-ui.com) - [Daisy UI](https://daisyui.com) - [Tailwind Components](https://tailwindcomponents.com) - [Flowbite (Tailwind)](https://flowbite.com) - [One Page Love Templates](https://onepagelove.com/templates) - [HyperUI](https://www.hyperui.dev) - [Tailwind Awesome](https://www.tailwindawesome.com) - [Hypercolor for Gradients](https://hypercolor.dev) - [Devdojo tailwind Buttons](https://devdojo.com/tailwindcss/buttons) - [Free Frontend](https://freefrontend.com) - [Mantine](https://mantine.dev)
+ - - Animation and others:
+    [Three.js for 3D](https://threejs.org) - [Rive for animation](https://rive.app) - [Coolors to create/choose color palettes](https://coolors.co) and [palettte](https://palettte.app) - [React Spring](https://react-spring.dev) - [Framer Motion](https://www.framer.com/motion/) - [Pattern Library](http://thepatternlibrary.com) - [React Scroll Parallax ](https://react-scroll-parallax.damnthat.tv/docs/intro/) - [Theme Change (good with DaisyUI to switch quickly)](https://github.com/saadeghi/theme-change) - [Remotion, write videos in React](https://www.remotion.dev)
+ - - Building on your own (only React or adding layers one at a time):
+    [Babel for language definition (highlighting JSX)](https://babeljs.io/docs/en/editors) - [Webpack](https://webpack.js.org) - [Parcel (nice)](https://parceljs.org) - [Vite, module bundler like webpack](https://vitejs.dev)
  - - CMS: [Sanity](https://www.sanity.io) - [Contentful](https://www.contentful.com) - [Strapi](https://strapi.io) - [Hygraph](https://hygraph.com) - [LIST of Headless CMS on JAMstack](https://jamstack.org/headless-cms/)
- - - Testing: [cypress](https://www.cypress.io) - [Measuring website performance, SEO](https://pagespeed.web.dev) - [Can I Use](https://caniuse.com) - [Go REST for Graphql and REST API calls](https://gorest.co.in)
- - - Editors/IDE: [Obsidian for MD(X)](https://obsidian.md) - [Atom](https://atom.io) - [Sublime Text](https://www.sublimetext.com) - [VS Code](https://code.visualstudio.com)
- - - Miscellaneous Resources: [example.com](https://example.com) - [placeholder.com](https://placeholder.com) - [Add-to-calendar Button](https://add-to-calendar-button.com) - [Moment JS](https://momentjs.com) - [DayJS](https://day.js.org/en/) - [Date, Time, Range Pickers](https://projects.wojtekmaj.pl/react-time-picker/) - [React drag range](https://www.npmjs.com/package/react-drag-range) - [React DateTime](https://www.npmjs.com/package/react-datetime) - [React Date-Range (Nice, draggable)](https://hypeserver.github.io/react-date-range/) - [Add Social Share buttons (see Gatsby plugin)](https://addsocialshare.com) - [Shrtcode to shorten urls](https://shrtco.de)
- - - Remark Plugins/Styling MDX: [Prismjs for code highlighting](https://prismjs.com) - [Highlight for code highlighting](https://highlightjs.org) - [Remark](https://remark.js.org)  - [Typography.js demo](http://kyleamathews.github.io/typography.js/) and [source](https://github.com/KyleAMathews/typography.js) - [Theme UI (creating themes, more than mdx)](https://theme-ui.com)
+ - - Testing:
+    [cypress](https://www.cypress.io) - [Measuring website performance, SEO](https://pagespeed.web.dev) - [Can I Use](https://caniuse.com) - [Go REST for Graphql and REST API calls](https://gorest.co.in)
+ - - Editors/IDE:
+    [Obsidian for MD(X)](https://obsidian.md) - [Atom](https://atom.io) - [Sublime Text](https://www.sublimetext.com) - [VS Code](https://code.visualstudio.com)
+ - - Miscellaneous Resources:
+    [example.com](https://example.com) - [placeholder.com](https://placeholder.com) - [Add-to-calendar Button](https://add-to-calendar-button.com) - [Moment JS](https://momentjs.com) - [DayJS](https://day.js.org/en/) - [Date, Time, Range Pickers](https://projects.wojtekmaj.pl/react-time-picker/) - [React drag range](https://www.npmjs.com/package/react-drag-range) - [React DateTime](https://www.npmjs.com/package/react-datetime) - [React Date-Range (Nice, draggable)](https://hypeserver.github.io/react-date-range/) - [Add Social Share buttons (see Gatsby plugin)](https://addsocialshare.com) - [Bundle Phobia to check bundle sizes](https://bundlephobia.com) - [React Big Calendar (fullcalendar inspired)](http://jquense.github.io/react-big-calendar/examples/?path=/story/about-big-calendar--page)
+ - - Remark Plugins/Styling MDX:
+    [Prismjs for code highlighting](https://prismjs.com) - [Highlight for code highlighting](https://highlightjs.org) - [Remark](https://remark.js.org)  - [Typography.js demo](http://kyleamathews.github.io/typography.js/) and [source](https://github.com/KyleAMathews/typography.js) - [Theme UI (creating themes, more than mdx)](https://theme-ui.com) - [Carbon for nice code Screenshots/snippets](https://carbon.now.sh)
  - - [CSS Tricks](https://css-tricks.com)
  - - [Unpkg to open npm packages](https://unpkg.com) - [npm](https://www.npmjs.com)
+ - - [Storybook to build/display/showcase UI components](https://storybook.js.org)
+ - - Backend/API:
+    [Swagger (hub)](https://swagger.io) - [Postman to test](https://www.postman.com) - [Go REST for Graphql and REST API calls](https://gorest.co.in) - [Apollo](https://www.apollographql.com) - [Express](https://expressjs.com)
+ - - Cookies/Analytics:
+    [OneTrust, cookies](https://www.onetrust.com)
+ - - [Oauth 2.0](https://oauth.net)
+ - - Miscellaneous APIs: [Auth0 authentication](https://auth0.com) - [Stripe oayements](https://stripe.com) - [Shrtcode link shortener](https://shrtco.de)
+ - - [Firebase, backend as a service](https://firebase.google.com)
 
 Note: I don't want to clutter the resources section so I won't add every resource that is directly connected to the main ones (interactive versions of the youtube courses for example).
 
